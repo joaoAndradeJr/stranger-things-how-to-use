@@ -2,4 +2,6 @@
 
 ## Frontend
 
+``` https://github.com/joaoAndradeJr/stranger-things-frontend ```
+
 ## Backend
