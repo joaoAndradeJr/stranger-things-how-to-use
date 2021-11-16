@@ -1,4 +1,4 @@
-# stranger-thiungs-how-to-use
+# stranger-things-how-to-use
 
 ## Frontend
 
